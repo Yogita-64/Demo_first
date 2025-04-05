@@ -1,4 +1,4 @@
 # Demo_first
 This is my first git repository
 <br>
-Auther:Yogita Mane
+Auther:Yogita (mane)
